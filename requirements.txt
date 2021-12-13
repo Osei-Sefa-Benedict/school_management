@@ -1,0 +1,9 @@
+asgiref
+certifi
+chardet
+Django
+djangorestframework
+idna
+Pillow
+pytz
+sqlparse
